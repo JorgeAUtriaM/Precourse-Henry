@@ -1,2 +1,1 @@
-# Precourse-Henry
-Este es un repositorio de pruebas del modulo 2 del precourse de Henry
+Este proyecto es una prueba de como crear un reporsitorio  y clonarlo a mi equipo de forma local.
